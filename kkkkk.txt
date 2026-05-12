@@ -1,0 +1,11 @@
+git remote add origin https://github.com/FERNANDO860SPACE/meu-backend-api.git
+ git branch -M main 
+git push -u origin main
+
+echo "# meu-backend-api" >> README.md 
+git init 
+git add README.md 
+git commit -m "primeiro commit" 
+git branch -M main 
+git remote add origin https://github.com/FERNANDO860SPACE/meu-backend-api.git
+ git push -u origin main
